@@ -109,6 +109,8 @@ Pune
 
 overcast clouds
 ```
+<img width="386" height="512" alt="image" src="https://github.com/user-attachments/assets/12edf449-c549-40f6-bb31-e62147318c9f" />
+
 
 ## ⚠️ Error Handling
 
